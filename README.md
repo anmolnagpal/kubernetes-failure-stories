@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/IYVX7a8.png" /></p>
 # kubernetes-stories
 > A compiled list of Kubernetes Failure stories. Stories about how companies experienced Kubernetes, failures and the post mortem of such events.
 
