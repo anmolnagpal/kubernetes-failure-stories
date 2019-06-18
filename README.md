@@ -14,4 +14,4 @@
 - [Tinder](https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44)
 
 ## Others
-- [101 Ways to Crash Your Cluster] (https://youtu.be/xZO9nx6GBu0)
+- [101 Ways to Crash Your Cluster](https://youtu.be/xZO9nx6GBu0)
