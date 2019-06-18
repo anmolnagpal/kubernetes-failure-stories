@@ -1,5 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/IYVX7a8.png" /></p>
-# kubernetes-stories
+
+# Kubernetes Stories
 > A compiled list of Kubernetes Failure stories. Stories about how companies experienced Kubernetes, failures and the post mortem of such events.
 
 ## Kubernetes Failure
@@ -9,7 +10,7 @@
 - [moonlightwork](https://updates.moonlightwork.com/outage-post-mortem-87370) 
 - [Saltside](https://engineering.saltside.se/our-failure-migrating-to-kubernetes-25c28e6dd604)
 
-## Kubernetes Stories
+## Moved to Kubernetes
 - [Tinder] (https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44)
 
 ## Others
