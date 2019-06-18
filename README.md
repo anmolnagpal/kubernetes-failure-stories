@@ -11,7 +11,7 @@
 - [Saltside](https://engineering.saltside.se/our-failure-migrating-to-kubernetes-25c28e6dd604)
 
 ## Moved to Kubernetes
-- [Tinder] (https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44)
+- [Tinder](https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44)
 
 ## Others
 - [101 Ways to Crash Your Cluster] (https://youtu.be/xZO9nx6GBu0)
