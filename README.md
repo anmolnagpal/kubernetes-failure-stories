@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/IYVX7a8.png" /></p>
 
 # Kubernetes Stories
-> A compiled list of Kubernetes Failure stories. Stories about how companies experienced Kubernetes, failures and the post mortem of such events.
+> A compiled list of Kubernetesstories. Stories about how companies experienced Kubernetes, failures and the post mortem of such events.
 
 ## Kubernetes Failure
 
